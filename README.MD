@@ -39,7 +39,7 @@
 
 ## Credits
 
-- yeedacoding  - Using 'Opencv' to recognize Coin&Bills
+- Onthesly  - Using 'Opencv' to recognize Coin&Bills
 
 - m1naworld  - Using 'SVM' to recognize license plates
 
